@@ -12,5 +12,6 @@ public class HelloGit {
         System.out.println("hot-fix test2");
         System.out.println("pull test");
         System.out.println("pull test22");
+        System.out.println("pull test33");
     }
 }
